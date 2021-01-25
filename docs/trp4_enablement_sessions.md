@@ -136,7 +136,7 @@ Follow following steps for configuration:
 
 ### Useful Sources
 
-- [Roles, Scopes & Privileges in TRP?](./TRP4.0_Roles%20_V2.xlsx)
+- [Roles, Scopes & Privileges in TRP?](./TRP4.0_Roles_V2.xlsx)
 
 - The authorization checks can be performed
 
@@ -267,7 +267,7 @@ Refer to SAP Note [_3007851 - SAP Transportation Resource Planning - SAP HRF to 
 - Go to application [Github repository](https://github.com/SAP-TRP/SAP-HRF-to-SAP-CP-BR-Migration-Tool), follow the project introduction to build and deploy application.
 - Follow the step-by-step usage from SAP Note attachment.
 
-Sample live demo system: <https://gcl0139.wdf.sap.corp:51353/webapp/index.html>
+- Demo
 
 ## Considerations for Custom Objects -> Object Registration
 
